@@ -1,0 +1,69 @@
+ <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>Pinturas Renascentistas</title>
+  </head>
+  <body bgcolor="#FFE4B5">
+    <h1 align="center"> <font face="Tahoma" color="#0000FF"> Artes Renascentistas </font> </h1>
+    <p>
+     <img src="Imagens/criaçaodeadao.jpg" alt="Pintura Criação de Adão, de Michelangelo" vspace="20" hspace="20" width="300" align="left">
+     <font face="Arial" size="4"> <b> Criação de Adão, de Michelangelo </b> <hr> </font>
+     <font face="Arial">A criação de Adão é uma pintura realizada na abóboda da Capela Sistina entre 1508 e 1512. Integra o conjunto de imagens produzidas por Michelangelo (1475-1564) na capela
+     com a técnica do afresco, quando a pintura é feita sobre gesso úmido. <br>
+     Na cena, o artista exibe a sua interpretação do que teria sido o momento da concepção do primeiro homem na face da Terra, Adão. Portanto, o que vemos é a figura de um homem
+     nu deitado com o braço direito estendido em direção a Deus, que com um toque lhe concede a vida. <br>
+     A importância dessa obra está na maneira racional com que Michelangelo escolhe retratar essa passagem bíblica. Note que o manto e os anjos que envolvem a figura divina
+     estão estruturados de forma a compor a imagem de um cérebro, sugerindo um Deus pensante, lógico e coerente. Tais valores estão completamente interligados ao contexto do
+     renascimento. </font>
+    </p>
+    <p>
+      <img src="Imagens/nascimentodevenus.jpg" alt="Pintura O Nascimento de Vênus, de Sandro Botticelli" vspace="20" hspace="20" width="300" align="right">
+     <font face="Arial" size="4"> <b> O nascimento de Vênus, de Sandro Botticelli </b> <hr> </font>
+     <font face="Arial">O nascimento de Vênus (Nascita di Venere), feito em 1484, é uma das grandes obras-primas do renascimento italiano. Pintada por Sandro Botticelli (1445-1510), a tela tem
+     dimensões de 172,5 x 278,5 cm e está localizada na Galleria degli Uffizi, na Itália. <br>
+     A cena retrata o episódio mitológico da origem de Vênus, a deusa do amor e da beleza na mitologia romana. A divindade é retratada como uma linda jovem nua que cobre seu
+     sexo enquanto emerge das águas através de uma concha. <br>
+     A obra tem destaque na história da renascença, pois mostra uma imagem totalmente referenciada na cultura greco-romana, trazendo inclusive influência da escultura clássica,
+     como se observa na posição corporal de Vênus. <br>
+     Além disso, a beleza e harmonia, tão valorizadas no período, pode ser contemplada nessa pintura do mestre Botticelli. </font>
+    </p> 
+    <p>
+     <img src="Imagens/anjocaido.jpg" alt="Pintura Anjo Caído - Alexandre Cabanel" vspace="20" hspace="20" width="300" align="left">
+     <font face="Arial" size="4"> <b> Anjo Caído, de Alexandre Cabanel </b> <hr> </font>
+     <font face="Arial">Fallen angel (Anjo caído em português) é uma pintura feita em tinta a óleo sobre tela, datada de 1847. Seu autor é Alexandre Cabanel (1823-1889)
+     Nesta pintura vemos um jovem anjo reclinando-se, mas contraindo os músculos ao mesmo tempo, esta representação idealiza uma característica da arte acadêmica, suas asas
+     estão desbotando para uma cor escura com um punhado de anjos flutuando no céu
+     acima dele. <br>
+     O elemento mais interessante da obra é a gama de emoções no rosto do anjo mesmo sem saber o contexto que levou o anjo a essa situação você pode dizer que ele sente angústia
+     raiva e humilhação. O fato dele estar escondendo o rosto com o braço, deve significar que ele também está escondendo algumas de suas emoções. Nessa tentativa de esconder
+     seu rosto nos mostra como ele está se sentindo envergonhado. Sua lágrima aparenta ser de tristeza, raiva vergonha, humilhação, dor e tormento.
+     Quando o jovem cabanel fez esta pintura em 1847 ele sofreu o mesmo destino de satanás, a academia não apreciou o Anjo caído. O criticou tanto pelo estilo romântico que
+     exibia, muitas cartas de emoções escrevia para seu amigo Alfred, "Essa é a minha recompensa por todos os problemas que eu me dei de não enviar um trabalho mediano" A reação
+     de Cabanet fascinante, porque mesmo que mais tarde ele incorporasse o artista acadêmico ideal, ele criticou a academia quando mais jovem e acreditou em uma forma de
+     liberdade artística. Ele de certa forma acreditava que a academia
+     deveria ser mais flexível.</font>
+    </p>
+    <p>
+     <img src="Imagens/monalisa.jpg" alt="Pintura Mona Lisa, de Leonardo da Vinci" vspace="20" hspace="20" width="210" align="right">
+     <font face="Arial" size="4"> <b> Mona Lisa, de Leonardo da Vinci </b> <hr> </font>
+     <font face="Arial">Mona Lisa (La Gioconda, no original) é uma pintura feita em tinta a óleo sobre madeira, datada de 1503. Seu autor é Leonardo da Vinci (1452-1519), um dos grandes nomes do
+     renascimento. <br>
+     A obra é considerada a mais famosa da história da arte devido ao seu caráter enigmático, simétrico e que prima pela harmonia em proporções, composição e jogo de luz e
+     sombra, conseguido através da técnica do sfumato. <br>
+     Medindo somente 77cm x 53cm, a pequena tela atrai multidões que vão ao Museu do Louvre, em Paris, para ver o retrato de uma jovem mulher que encara os espectadores com
+     semblante misterioso, denotando ora simpatia, ora altivez.</font>
+    </p>
+    <p>
+     <img src="Imagens/aultimaceia.jpg" alt="Pintura A última ceia - Leonardo da Vinci" vspace="20" hspace="20" width="300" align="left">
+     <font face="Arial" size="4"> <b> A última ceia, de Leonardo da Vinci </b> <hr> </font>
+     <font face="Arial">A última ceia é uma obra localizada no refeitório do Convento de Santa Maria Delle Grazie, em Milão, na Itália. Foi pintada pelo mestre Leonardo da Vinci entre 1494 e 1497
+     e tem grandes dimensões de 4,60 x 8,80 metros.<br>
+     A técnica utilizada foi uma inovação do afresco, quando a parede úmida recebe as camadas de tintas. Nesse caso, da Vinci depositou os pigmentos no painel já seco, o que o
+     ajudou a criar com maior liberdade os jogos de luz e sombra, mas acabou facilitando a deterioração da pintura.<br>
+     Essa é uma obra-prima pois exibe de maneira muito singular e inovadora a cena bíblica do momento em que Jesus Cristo comunica aos seus discípulos que um deles será seu traidor, no caso Judas Iscariotes.<br>
+     Aqui, o uso da perspectiva é usado com maestria, conferindo simetria e direcionando o olhar de quem observa para o rosto de Cristo.</font>
+    </p>
+  </body>
+</html>
